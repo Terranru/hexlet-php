@@ -1,0 +1,6 @@
+{
+    "name": "terr/hexlet-php",
+    "description": "first php app",
+    "type": "project",
+    "require": {}
+}
